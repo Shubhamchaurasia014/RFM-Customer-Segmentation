@@ -78,7 +78,7 @@ Built an interactive dashboard including:
 
 ---
 
-## 📈 Key Insights
+##  Key Insights
 
 * High Value customers contribute the majority of revenue
 * Most customers are in the low or regular segments
@@ -96,7 +96,7 @@ Built an interactive dashboard including:
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 1. Load dataset into PostgreSQL
 2. Run SQL script for cleaning & RFM calculation
@@ -106,7 +106,7 @@ Built an interactive dashboard including:
 
 ---
 
-## 🙌 Conclusion
+##  Conclusion
 
 This project demonstrates a complete **end-to-end data analysis workflow**, from raw data to business insights.
 
